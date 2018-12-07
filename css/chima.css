@@ -1,0 +1,203 @@
+{
+  outline: 1px solid black;
+}
+/* variables */
+:root {
+  --color-primario: #00ff00;
+  --color-secundario: #0ff000;
+  --color-link: #ff0000;
+  --color-link-hover: #f00000;
+  --altura-header: 75px;
+  --altura-seccion: 100vh;
+}
+/* resets */
+body {
+  /* background-color: black; */
+}
+div, section, article, ul, nav {
+  height: 100%;
+}
+a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  padding: 16px 0 16px 0;
+}
+form {
+  margin-bottom: 16px;
+}
+.ha {
+  height: auto;
+}
+#main,#info, #ubicacion, #participantes {
+  padding-top: var(--altura-header);
+}
+/* header */
+header {
+  height: var(--altura-header);
+  position: fixed;
+  z-index: 10000;
+  background: #E1BD3B;
+  color: black;
+}
+.text{
+  color: black;
+
+}
+figure {
+  height: 100%;
+  display: block;
+  margin: 0;
+}
+figure img {
+  display: block;
+  margin: auto;
+  height: 100%;
+  width: auto;
+}
+/* body */
+#heroscreen, #info, #ubicacion {
+  height: var(--altura-seccion);
+}
+/* heroscreen */
+#heroscreen {
+  position: relative;
+}
+.heroscreen_background {
+  overflow: hidden;
+  position: absolute;
+  padding: 0;
+  z-index: -1;
+}
+.heroscreen_background img {
+  height: 100%;
+  width: 100%;
+}
+.heroscreen_text {
+  position: absolute;
+  left: 0;
+  z-index: 0;
+
+}
+.heroscreen_text h1 {
+  font-weight: bolder;
+  font-size: 6em;
+  width: 98%;
+text-align: right;
+color:black;
+}
+.heroscreen_text h3 {
+  font-size: 3em;
+  font-weight: bold;
+  width: 98%;
+  text-align: right;
+  color:black;
+}
+/* info */
+/*  */
+/* Participantes */
+.participantes_item {
+  height: 250px;
+  overflow: hidden;
+  position: relative;
+  padding: 0;
+}
+.participantes_item_back {
+  position: absolute;
+  padding: 0;
+  width: 100%;
+}
+.participantes_item_back img {
+  height: 100%;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: -1;
+}
+.participantes_item_text {
+  position: absolute;
+  z-index: 0;
+
+}
+/* Ubucacion */
+#ubicacion {
+  overflow: hidden;
+  background: black;
+  color:white;
+}
+#map {
+  background: url('../img/.jpg') no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  height: 100%;
+  margin-top: 4%;
+}
+/*info*/
+.info_descriptionl{
+  font-size: 4em;
+  font-weight: bold;
+  color: black;
+}
+
+.info_description{
+  font-size: 2em;
+  color: black;
+
+}
+.sub{
+  font-size: 2em;
+  color: black;
+  font-weight: 400;
+}
+
+p{
+  font-size: 1.3em;
+  color: black;
+  font-weight: 100;
+}
+
+
+/* stand */
+.stand{
+  text-align: center;
+  color: black;
+  font-size: 3em;
+  font-weight: bold;
+  width: 100%;
+}
+/* recorrido */
+.recorrido{
+  align-self: center;
+  margin-top: 10%;
+}
+
+/* footer */
+footer {
+  height: var(--altura-header);
+  background:black;
+  color:white;
+}
+.social {
+  font-size: 2em
+}
+.social ul {
+  padding: 0;
+  margin: 0;
+}
+
+.botton{
+  color: black;
+}
+.bottonhero{
+  color: black;
+  text-align: right;
+  font-size: 6em;
+  font-weight: bold;
+}
