@@ -2,7 +2,8 @@
 "Los Pochotes"
 
 HOME 
-#Ésta sección será "One-page". Se mostrará una imagen de cada una de las secciones consecutivas, el título de las mismas, y un botón que te direcciona a la página seleccionada. Se realizaráuna sección para los temas:
+
+Ésta sección será "One-page", se mostrará una imagen de cada una de las secciones consecutivas, el título de las mismas, y un botón que te direcciona a la página seleccionada. Se realizaráuna sección para los temas:
 
 - Chimalhuacán.
 
