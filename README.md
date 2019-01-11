@@ -5,13 +5,13 @@ HOME
 
 Ésta sección será "One-page", se mostrará una imagen de cada una de las secciones consecutivas, el título de las mismas, y un botón que te direcciona a la página seleccionada. Se realizaráuna sección para los temas:
 
-- Chimalhuacán.
+     - Chimalhuacán.
 
-- Los Pochotes.
+    - Los Pochotes.
 
-- Recorrido,
+    - Recorrido,
 
-- Tienda.
+     - Tienda.
 
  SECCIONES 
 
