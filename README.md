@@ -1,63 +1,40 @@
 # Chimalli
 "Los Pochotes"
 
-HOME
+HOME 
+#Ésta sección será "One-page". Se mostrará una imagen de cada una de las secciones consecutivas, el título de las mismas, y un botón que te direcciona a la página seleccionada. Se realizaráuna sección para los temas:
 
 - Chimalhuacán.
 
-- Imágen.
+- Los Pochotes.
 
--  Descripción.
+- Recorrido,
 
--  Link.
+- Tienda.
 
-LOS POCHOTES
+ SECCIONES 
 
-- Imágen.
+  CHIMALHUACÁN.
 
-- Descripción.
+    - Historia de Chimalhuacán (Redactada de manera breve y con 3 imágenes descriptivas).
+    - Lugares importantes (Se motrará un listado de los lugares destacados e imágenes).
+    - Ubicación (Mapa de Google Maps).
 
-- Link.
+  LOS POCHOTES.
 
-RECORRIDO
+    - Historia (Acompañada de imágenes de las ruinas, así como su reeconstrucción).
+      - Código Quinántzin (Redacción e imágenes).
+    - Aztecas (Se mostrará una descripción con imágenes).
+      - Tradiciones (Se mostrará una descripción con imágenes).
+      - Festividades (Se mostrará una descripción con imágenes).
+      - Alimentación (Se mostrará una descripción con imágenes).
+      - Vestimenta (Se mostrará una descripción con imágenes).
+    - Galería (Se mostrarán imágenes con una breve descripción).
 
-- Imágen.
-
-- Descripción.
-
-- Link.
-
-TIENDA
-
-- Imágen.
-
-- Descripción.
-
-- Link.
-
-SECCIONES
-
-CHIMALHUACÁN.
-
-  - Historia.
-  - Lugares importantes.
-  - Ubicación.
-
-LOS POCHOTES.
-
-  - Historia.
-      - Código Quinántzin.
-  - Aztecas.
-    - Tradiciones.
-    - Festividades.
-    - Alimentación.
-    - Vestimenta.
-  - Galería.
-
-RECORRIDO
-- Video.
-- Breve explicación.
-- Vistas de stands.
+  RECORRIDO
+    - Video
+    - Breve explicación.
+    - Vistas de stands.
 
 TIENDA
   - Gif (360°) de Guerrero Chimalli.
