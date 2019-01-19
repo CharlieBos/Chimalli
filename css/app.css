@@ -27,7 +27,7 @@ a {
 }
 ul {
   list-style-type: none;
-  
+
 }
 h1, h2, h3, h4, h5, h6 {
   padding: 16px 0 16px 0;
@@ -51,16 +51,16 @@ form {
   margin: 0 auto;
   margin-right: 450px;
   list-style: none;
-  
-    
+
+
 }
 
 .botones{
     color: white;
-    
-    
-    
-    
+
+
+
+
 }
 .botonesdos{
     color: white;
@@ -83,7 +83,7 @@ form {
 
 #logo{
     height: inherit;
-    
+
 }
 /* header */
 header {
@@ -92,11 +92,11 @@ header {
   z-index: 10000;
   background-color: #f62e46;
   box-shadow: 10px 10px 80px
-  
+
 }
 .navbar-brand {
   padding-top: 20px;
-  
+
 }
 
 }
@@ -133,10 +133,10 @@ figure img {
   font-size: 3em;
   color: white;
   font-weight: 350;
-  
+
 }
 .heroscreen_text h3 {
-    
+
   position: relative;
   top: -30px;
   font-size: 2em;
@@ -146,7 +146,7 @@ figure img {
 
 
 
-.boton{    
+.boton{
  display: flex;
   justify-content: right;
   align-items:center;
@@ -154,8 +154,8 @@ figure img {
   margin: 0 auto;
   margin-left: 36%;
   list-style: none;
- 
-    
+
+
 }
 
 
@@ -167,7 +167,7 @@ figure img {
     color: #ffffff;
     background-color: #f62e46;
     border-radius: 9px;
-    
+
 }
 
 .uno:hover {
@@ -192,7 +192,7 @@ box-shadow: inset 0 0 0 3px #ffffff;
     color: #ffffff;
     background-color: #f62e46;
     border-radius: 9px;
-    
+
 }
 
 
@@ -208,7 +208,7 @@ box-shadow: inset 0 0 0 3px #ffffff;
 #info,h1{
     text-align: center;
     font-size: 1.5em;
-    
+
 }
 
 #info,p{
@@ -236,27 +236,27 @@ box-shadow: inset 0 0 0 3px #ffffff;
     margin-left: 5%;
      box-shadow: 10px 2px 15px;
 }
- 
+
 
 #verde{
     width: auto;
     height: 25vh;
     background-color: #057978;
-    
-    
+
+
 }
 
 img.color{
     margin-left: -25%;
     margin-top: -70px;
 
-    
+
 }
- 
+
 .col text-center, h4{
     font-size: 2em;
     margin-top: 20px;
-    
+
 }
 
 .coltexto1{
@@ -265,14 +265,14 @@ img.color{
 }
 
 #slider{
-  
+
     width: auto;
     height: 45vh;
-    
+
 }
 
 .slider {
-    
+
 	width: 40%;
 	margin: auto;
 	overflow: hidden;
@@ -282,7 +282,7 @@ img.color{
 	display: flex;
 	padding: 0;
 	width: 300%;
-	
+
 	animation: cambio 10s infinite alternate linear;
 }
 
@@ -299,25 +299,26 @@ img.color{
 @keyframes cambio {
 	0% {margin-left: 0;}
 	20% {margin-left: 0;}
-	
+
 	25% {margin-left: -100%;}
 	45% {margin-left: -100%;}
-	
+
 	50% {margin-left: -200%;}
 	70% {margin-left: -200%;}
-	
-	
+
+
 }
 
 footer {
   width: auto;
-    height: 8vh;
-    background-color: #057978
- 
+    height: 6vh;
+    background-color: #black
+
+
 }
 .social {
   font-size: 5em;
-  
+
 }
 
 /*appdos*/
