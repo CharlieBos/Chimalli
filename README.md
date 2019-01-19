@@ -1,62 +1,70 @@
-# Chimalli
-"Los Pochotes"
 
-HOME 
+# Fundamentos 1
 
-Ésta sección será "One-page", se mostrará una imagen de cada una de las secciones consecutivas, el título de las mismas, y un botón que te direcciona a la página seleccionada. Se realizará una sección para los temas:
+Repositorio para la clase de Fundamentos de programación orientada a objetos
 
-     - Chimalhuacán.
+### Git
+- ¿Qué es Git?
+- Instalación
+  - Linux / MacOS [Git](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=2ahUKEwjtgsPUycDeAhVFSq0KHS-IBywQFjADegQIBBAB&url=https%3A%2F%2Fgit-scm.com%2Fbook%2Fen%2Fv2%2FGetting-Started-Installing-Git&usg=AOvVaw34_NoLPGdtnUVR92ZCaR9H)
+  - Windows [Git for windows](https://gitforwindows.org/)
+- Comandos básicos
+  - configure
+  - status
+  - add
+  - commit
+  - push
+  - pull
+  - checkout
+  - branch
+  - merge
 
-    - Los Pochotes.
+### Linea de comandos - bash
+- Comandos básicos
+   - ls
+     - -la
+   - cd
+     - /
+     - .
+     - ..
+   - cp
+   - mv
+   - mkdir
+   - touch
 
-    - Recorrido,
+### Markdown
+- Headings
+- Listas
+  - Lista concatenada
+- Links Ej.: [Iconos site](https://iconos.edu.mx)
+- Fotos Ej.: ![](img/josecaos.live.2.jpg)
 
-     - Tienda.
+### Repaso HTML + CSS
+- Template básico HTML
+  - Wireframe LoFi
+  - Maqueta
+   - CSS
+   - Bootstrap 4
+      - Grid
+      - Navbar
+      - Breakpoints
+    - JS
+      - Fundamentos
+        - [OOP / POO](https://codesolt.com/tutoriales/fundamentos/programacion-orientada-objetos/)
+        - [OOP / POO](https://msdn.microsoft.com/es-es/library/bb972232.aspx)
+        - [ECMASrypt 6](https://www.youtube.com/watch?v=OjMZg9gTLgw)  
+        - [JS](https://www.youtube.com/watch?v=k9wTpG8NI4Q)  
+      - Ejercicios
+      - Librerias / Frameworks
+       - jQuery
+         - Tarea:
+           - Crea una función que sume 2 números 'X' y lo multiplique por otro número 'X'
+           - Crea una función que imprime dentro de un <h1> el texto pasado como argumento
+           - Crea una función que regrese en consola el valor de el scroll ( .srollTop .on('scroll') )
+       - Introducción a React
+       - *Liberias de interés ...*
 
- SECCIONES 
 
-  CHIMALHUACÁN.
 
-    - Historia de Chimalhuacán (Redactada de manera breve y con 3 imágenes descriptivas).
-    - Lugares importantes (Se motrará un listado de los lugares destacados e imágenes).
-    - Ubicación (Mapa de Google Maps).
-
-  LOS POCHOTES
-
-    - Historia (Acompañada de imágenes de las ruinas, así como su reeconstrucción).
-      - Código Quinántzin (Redacción e imágenes).
-    - Aztecas (Se mostrará una descripción con imágenes).
-      - Tradiciones (Se mostrará una descripción con imágenes).
-      - Festividades (Se mostrará una descripción con imágenes).
-      - Alimentación (Se mostrará una descripción con imágenes).
-      - Vestimenta (Se mostrará una descripción con imágenes).
-    - Galería (Se mostrarán imágenes con una breve descripción).
- 
-    RECORRIDO.
-    - Video.
-    - Breve explicación.
-    - Vistas de stands.
-
-    TIENDA
-     - Gif (360°) de Guerrero Chimalli.
-       - Breve descripción.
-       - Precio.
-     - Gif (360°) de Collar.
-       - Breve descripción.
-       - Precio.
-     - Gif (360°) de Botella.
-       - Breve descripción.
-       - Precio.
-     - Gif (360°) de Trono Azteca.
-       - Breve descripción.
-       - Precio.
-     - Gif (360°) de Flauta.
-       - Breve descripción.
-       - Precio.
-
-    FOOTER
-      - Domicilio.
-      - Teléfono.
-      - Correo.
-      - Facebook.
-      - Mapa con href.
+### Proyecto final
+...
